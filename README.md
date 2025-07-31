@@ -16,16 +16,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎤 [Speech Emotion Recognition](https://github.com/sabarivasan-j/speech-emotion-recognition) | Detect emotions in speech using deep learning | Python, Librosa, TensorFlow |
-| 🗳️ [Smart Voter Assist](https://github.com/sabarivasan-j/smart-voter-assist) | Voting system for elderly/disabled using AI & IoT | Python, Firebase, Web |
-| 📊 [Data Preprocessing Toolkit](https://github.com/sabarivasan-j/data-preprocessing-toolkit) | Python functions to clean and prepare data | Python, Pandas |
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
