@@ -29,8 +29,7 @@
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sabarivasan-j)
-- 📫 Email: sabarivasan@example.com (use your real email)
-
+- 📫 Email: sabarivasanj12@gmail.com
 ---
 
 *“Code with passion. Build with purpose.”*
