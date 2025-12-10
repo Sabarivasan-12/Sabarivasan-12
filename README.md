@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" width="200" style="border-radius:50%;border:4px solid #00f3ff;" />
+  <img src="C:\Users\SABARIVASAN_J\OneDrive\Documents\my profile.jpg" width="200" style="border-radius:50%;border:4px solid #00f3ff;" />
 </div>
 
 <h1 align="center">💫 SABARIVASAN</h1>
@@ -72,7 +72,7 @@
 
 ## 🔗 Connect With Me
 - 📧 Email: **sabarivasanj12@gmail.com**
-- 💼 LinkedIn: *(Add your link)*
+- 💼 LinkedIn: LinkedIn – Sabarivasan J
 - 🌐 Portfolio: *Coming Soon*
 
 ---
