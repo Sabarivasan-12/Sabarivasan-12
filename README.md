@@ -101,14 +101,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SABARIVASAN&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABARIVASAN&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 - 📧 Email: **sabarivasanj12@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/sabarivasan-j?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
