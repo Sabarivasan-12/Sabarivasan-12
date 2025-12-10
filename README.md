@@ -79,3 +79,42 @@
 
 <p align="center">⭐ If you like my work, consider starring my repositories!</p>
 ```
+
+### **Frameworks / Libraries**
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,opencv&theme=dark" /></p>
+
+### **Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /></p>
+
+---
+
+## 🔥 Featured Projects
+### 🔊 **Speech Emotion Recognition (Deep Learning)**
+- Python • Librosa • TensorFlow
+- Predicts emotion from audio signals
+
+### 🌐 **Portfolio Website**
+- HTML • CSS • JavaScript
+
+### 🧭 **Browser Tabs Navigation – DLL**
+- Back, Forward, New Tab Simulation
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SABARIVASAN&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABARIVASAN&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+- 📧 Email: **sabarivasanj12@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/sabarivasan-j?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
+```
