@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F3FF&size=30&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+SABARIVASAN J;Engineering+Student+|+Developer+|+Entrepreneur;AI+%26+Deep+Learning+Enthusiast;Welcome+to+my+GitHub+Profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F3FF&size=30&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+SABARIVASAN+J;Engineering+Student+|+Developer+|+Entrepreneur;AI+%26+Deep+Learning+Enthusiast;Welcome+to+my+GitHub+Profile!)
 
 ---
 
