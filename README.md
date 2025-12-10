@@ -7,7 +7,7 @@
   <img src="C:\Users\SABARIVASAN_J\OneDrive\Documents\my profile.jpg" width="200" style="border-radius:50%;border:4px solid #00f3ff;" />
 </div>
 
-<h1 align="center">💫 SABARIVASAN</h1>
+<h1 align="center">💫 SABARIVASAN J</h1>
 <h3 align="center">Full-Stack Learner • Deep Learning Enthusiast • Engineering Student</h3>
 
 ---
